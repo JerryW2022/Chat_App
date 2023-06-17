@@ -1,0 +1,212 @@
+{
+    "height": "100vh",
+    "projectID": "968c5593-e031-42d6-8f7b-14beec146568",
+    "userName": "TestUser123",
+    "userSecret": "123123",
+    "conn": {
+        "height": "100vh",
+        "projectID": "968c5593-e031-42d6-8f7b-14beec146568",
+        "userName": "TestUser123",
+        "userSecret": "123123"
+    },
+    "creds": {
+        "height": "100vh",
+        "projectID": "968c5593-e031-42d6-8f7b-14beec146568",
+        "userName": "TestUser123",
+        "userSecret": "123123"
+    },
+    "sessionToken": "st-74b02b5e-ba03-4131-a245-18421139ee77",
+    "chats": {
+        "181413": {
+            "id": 181413,
+            "admin": {
+                "username": "TestUser123",
+                "first_name": "",
+                "last_name": "",
+                "avatar": "https://api-chat-engine-io.s3.amazonaws.com/avatars/testuser_oT6L9rR.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAZA5RH3EC2MM47GFP%2F20230616%2Fca-central-1%2Fs3%2Faws4_request&X-Amz-Date=20230616T031912Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=cd01ca0e2c7210ae34e063e0679404f66acc5c403a7bfb9772032369a5ab432d",
+                "custom_json": "{}",
+                "is_online": true
+            },
+            "people": [
+                {
+                    "person": {
+                        "username": "CodeNinja42",
+                        "first_name": "",
+                        "last_name": "",
+                        "avatar": "https://api-chat-engine-io.s3.amazonaws.com/avatars/CodeNinja.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAZA5RH3EC2MM47GFP%2F20230616%2Fca-central-1%2Fs3%2Faws4_request&X-Amz-Date=20230616T031912Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=4bfa40050c9c1aa813e92dbbf29f986de37753ff2408fd56cdbfd67f41583558",
+                        "custom_json": "{}",
+                        "is_online": false
+                    },
+                    "chat_updated": "2023-06-16T03:18:20.388557Z",
+                    "last_read": 726876
+                },
+                {
+                    "person": {
+                        "username": "TestUser123",
+                        "first_name": "",
+                        "last_name": "",
+                        "avatar": "https://api-chat-engine-io.s3.amazonaws.com/avatars/testuser_oT6L9rR.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAZA5RH3EC2MM47GFP%2F20230616%2Fca-central-1%2Fs3%2Faws4_request&X-Amz-Date=20230616T031912Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=cd01ca0e2c7210ae34e063e0679404f66acc5c403a7bfb9772032369a5ab432d",
+                        "custom_json": "{}",
+                        "is_online": true
+                    },
+                    "chat_updated": "2023-06-16T03:18:20.388557Z",
+                    "last_read": 726870
+                }
+            ],
+            "attachments": [
+                {
+                    "id": 53660,
+                    "file": "https://api-chat-engine-io.s3.amazonaws.com/attachments/CodeNinja.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAZA5RH3EC2MM47GFP%2F20230616%2Fca-central-1%2Fs3%2Faws4_request&X-Amz-Date=20230616T031912Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=872dcee4da3e5e2e7571a8e6bc576fbe3945b76d6baefa297d2b176cc7b0b02f",
+                    "created": "2023-06-16T03:18:21.798650Z"
+                },
+                {
+                    "id": 53658,
+                    "file": "https://api-chat-engine-io.s3.amazonaws.com/attachments/testuser_edZ2jhs.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAZA5RH3EC2MM47GFP%2F20230616%2Fca-central-1%2Fs3%2Faws4_request&X-Amz-Date=20230616T031912Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=5ff3a3aedc3d3c1dae28a2b65b98fbb6e79865acdd20aaa4c9a06a9347212cfc",
+                    "created": "2023-06-16T03:16:09.537903Z"
+                }
+            ],
+            "last_message": {
+                "id": 726876,
+                "sender": {
+                    "username": "CodeNinja42",
+                    "first_name": "",
+                    "last_name": "",
+                    "avatar": "https://api-chat-engine-io.s3.amazonaws.com/avatars/CodeNinja.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAZA5RH3EC2MM47GFP%2F20230616%2Fca-central-1%2Fs3%2Faws4_request&X-Amz-Date=20230616T031912Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=4bfa40050c9c1aa813e92dbbf29f986de37753ff2408fd56cdbfd67f41583558",
+                    "custom_json": "{}",
+                    "is_online": false
+                },
+                "created": "2023-06-16 03:18:20.388557+00:00",
+                "attachments": [
+                    {
+                        "id": 53660,
+                        "file": "https://api-chat-engine-io.s3.amazonaws.com/attachments/CodeNinja.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAZA5RH3EC2MM47GFP%2F20230616%2Fca-central-1%2Fs3%2Faws4_request&X-Amz-Date=20230616T031912Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=872dcee4da3e5e2e7571a8e6bc576fbe3945b76d6baefa297d2b176cc7b0b02f",
+                        "created": "2023-06-16T03:18:21.798650Z"
+                    }
+                ],
+                "sender_username": "CodeNinja42",
+                "text": "",
+                "custom_json": "{\"sender_id\":\"1686885500388\"}"
+            },
+            "title": "chat1",
+            "is_direct_chat": false,
+            "custom_json": "{}",
+            "access_key": "ca-315f2e4e-9b94-4b27-8bcb-d4a93fe16dc9",
+            "is_authenticated": true,
+            "created": "2023-06-16T03:15:29.729055Z"
+        }
+    },
+    "messages": {
+        "2023-06-16 03:15:43.139300+00:00": {
+            "id": 726865,
+            "sender": {
+                "username": "TestUser123",
+                "first_name": "",
+                "last_name": "",
+                "avatar": "https://api-chat-engine-io.s3.amazonaws.com/avatars/testuser_oT6L9rR.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAZA5RH3EC2MM47GFP%2F20230616%2Fca-central-1%2Fs3%2Faws4_request&X-Amz-Date=20230616T031918Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=ec1ff35ce42eb36f203c080c1774cab45a101776e379f331efe482c7fd3c2010",
+                "custom_json": "{}",
+                "is_online": true
+            },
+            "created": "2023-06-16 03:15:43.139300+00:00",
+            "attachments": [],
+            "sender_username": "TestUser123",
+            "text": "<p>1</p>",
+            "custom_json": "{\"sender_id\":\"1686885343139\"}"
+        },
+        "2023-06-16 03:15:45.485734+00:00": {
+            "id": 726866,
+            "sender": {
+                "username": "TestUser123",
+                "first_name": "",
+                "last_name": "",
+                "avatar": "https://api-chat-engine-io.s3.amazonaws.com/avatars/testuser_oT6L9rR.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAZA5RH3EC2MM47GFP%2F20230616%2Fca-central-1%2Fs3%2Faws4_request&X-Amz-Date=20230616T031918Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=ec1ff35ce42eb36f203c080c1774cab45a101776e379f331efe482c7fd3c2010",
+                "custom_json": "{}",
+                "is_online": true
+            },
+            "created": "2023-06-16 03:15:45.485734+00:00",
+            "attachments": [],
+            "sender_username": "TestUser123",
+            "text": "<p>2</p>",
+            "custom_json": "{\"sender_id\":\"1686885345485\"}"
+        },
+        "2023-06-16 03:16:07.299638+00:00": {
+            "id": 726870,
+            "sender": {
+                "username": "TestUser123",
+                "first_name": "",
+                "last_name": "",
+                "avatar": "https://api-chat-engine-io.s3.amazonaws.com/avatars/testuser_oT6L9rR.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAZA5RH3EC2MM47GFP%2F20230616%2Fca-central-1%2Fs3%2Faws4_request&X-Amz-Date=20230616T031918Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=ec1ff35ce42eb36f203c080c1774cab45a101776e379f331efe482c7fd3c2010",
+                "custom_json": "{}",
+                "is_online": true
+            },
+            "created": "2023-06-16 03:16:07.299638+00:00",
+            "attachments": [
+                {
+                    "id": 53658,
+                    "file": "https://api-chat-engine-io.s3.amazonaws.com/attachments/testuser_edZ2jhs.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAZA5RH3EC2MM47GFP%2F20230616%2Fca-central-1%2Fs3%2Faws4_request&X-Amz-Date=20230616T031918Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=c9ae54d34ec85a609a27aeba64aea2debbd051e8f817b3adb90bd41135bb6728",
+                    "created": "2023-06-16T03:16:09.537903Z"
+                }
+            ],
+            "sender_username": "TestUser123",
+            "text": "",
+            "custom_json": "{\"sender_id\":\"1686885367299\"}"
+        },
+        "2023-06-16 03:18:12.289531+00:00": {
+            "id": 726874,
+            "sender": {
+                "username": "CodeNinja42",
+                "first_name": "",
+                "last_name": "",
+                "avatar": "https://api-chat-engine-io.s3.amazonaws.com/avatars/CodeNinja.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAZA5RH3EC2MM47GFP%2F20230616%2Fca-central-1%2Fs3%2Faws4_request&X-Amz-Date=20230616T031918Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=46ac2e478ae7e40c2c24a8b6032fca2f43e239007547f0a63f7469967e09e7a4",
+                "custom_json": "{}",
+                "is_online": false
+            },
+            "created": "2023-06-16 03:18:12.289531+00:00",
+            "attachments": [],
+            "sender_username": "CodeNinja42",
+            "text": "<p>4</p>",
+            "custom_json": "{\"sender_id\":\"1686885492289\"}"
+        },
+        "2023-06-16 03:18:14.821585+00:00": {
+            "id": 726875,
+            "sender": {
+                "username": "CodeNinja42",
+                "first_name": "",
+                "last_name": "",
+                "avatar": "https://api-chat-engine-io.s3.amazonaws.com/avatars/CodeNinja.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAZA5RH3EC2MM47GFP%2F20230616%2Fca-central-1%2Fs3%2Faws4_request&X-Amz-Date=20230616T031918Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=46ac2e478ae7e40c2c24a8b6032fca2f43e239007547f0a63f7469967e09e7a4",
+                "custom_json": "{}",
+                "is_online": false
+            },
+            "created": "2023-06-16 03:18:14.821585+00:00",
+            "attachments": [],
+            "sender_username": "CodeNinja42",
+            "text": "<p>5</p>",
+            "custom_json": "{\"sender_id\":\"1686885494820\"}"
+        },
+        "2023-06-16 03:18:20.388557+00:00": {
+            "id": 726876,
+            "sender": {
+                "username": "CodeNinja42",
+                "first_name": "",
+                "last_name": "",
+                "avatar": "https://api-chat-engine-io.s3.amazonaws.com/avatars/CodeNinja.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAZA5RH3EC2MM47GFP%2F20230616%2Fca-central-1%2Fs3%2Faws4_request&X-Amz-Date=20230616T031918Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=46ac2e478ae7e40c2c24a8b6032fca2f43e239007547f0a63f7469967e09e7a4",
+                "custom_json": "{}",
+                "is_online": false
+            },
+            "created": "2023-06-16 03:18:20.388557+00:00",
+            "attachments": [
+                {
+                    "id": 53660,
+                    "file": "https://api-chat-engine-io.s3.amazonaws.com/attachments/CodeNinja.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAZA5RH3EC2MM47GFP%2F20230616%2Fca-central-1%2Fs3%2Faws4_request&X-Amz-Date=20230616T031918Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=3f322a4522764b13b6937068f70efef9fd5359dad86a5560fe9150949b6c34d3",
+                    "created": "2023-06-16T03:18:21.798650Z"
+                }
+            ],
+            "sender_username": "CodeNinja42",
+            "text": "",
+            "custom_json": "{\"sender_id\":\"1686885500388\"}"
+        }
+    },
+    "activeChat": 181413,
+    "typingCounter": {},
+    "loadMoreMessages": false,
+    "isBottomVisible": false
+}
