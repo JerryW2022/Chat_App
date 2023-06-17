@@ -10,10 +10,6 @@ const App = () => {
   if (!localStorage.getItem("username")) return <LoginForm />;
 
   return (
-    // userName='TestUser123'
-    // userSecret='123123'
-    // userName='CodeNinja42'
-    // userSecret='123123'
     <ChatEngine
       height="100vh"
       projectID={projectID}
